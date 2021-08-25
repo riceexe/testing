@@ -1,1 +1,3 @@
-it actually works
+line 1
+line 2
+this is being auto updated
