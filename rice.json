@@ -149,7 +149,7 @@
     "CHAT_GREY": "#071423"
   },
   "background": {
-    "blur": 0.0,
+    "blur": 1.0,
     "url": "https://raw.githubusercontent.com/riceexe/testing/main/wallpaper1366.png",
     "alpha": 1.0
   }
