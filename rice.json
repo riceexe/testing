@@ -2,12 +2,7 @@
   "name": "StaryNighta",
   "description": "Stars",
   "version": "1.0",
-  "authors": [
-    {
-      "name": "flower",
-      "id": "836452332387565589"
-    }
-  ],
+  
   "theme_color_map": {
     "KEYBOARD": [
       "#071423",
