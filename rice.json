@@ -1,6 +1,6 @@
 {
-  "name": "ricetheme",
-  "description": "pp",
+  "name": "StaryNight",
+  "description": "Stars",
   "version": "1.0",
   "authors": [
     {
@@ -149,8 +149,8 @@
     "CHAT_GREY": "#071423"
   },
   "background": {
-    "blur": 1.0,
-    "url": "https://raw.githubusercontent.com/riceexe/testing/main/wallpaper1366.png",
+    "blur": 0.0,
+    "url": "https://github.com/riceexe/testing/blob/main/wallpaper1366.png?raw=true",
     "alpha": 1.0
   }
 }
