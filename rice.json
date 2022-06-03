@@ -1,8 +1,13 @@
 {
-  "name": "StaryNighta",
-  "description": "Stars",
+  "name": "rice",
+  "description": "rice",
   "version": "1.0",
-  
+  "authors": [
+    {
+      "name": "rice",
+      "id": "504448006997934091"
+    }
+  ],
   "theme_color_map": {
     "KEYBOARD": [
       "#071423",
@@ -144,8 +149,8 @@
     "CHAT_GREY": "#071423"
   },
   "background": {
-    "blur": 0.0,
-    "url": "https://media.discordapp.net/attachments/961011167927615611/981715129127284826/unknown.png",
+    "blur": 5.0,
+    "url": "https://cdn.discordapp.com/attachments/961011167927615611/981715129127284826/unknown.png",
     "alpha": 1.0
   }
 }
