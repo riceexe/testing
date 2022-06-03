@@ -1,6 +1,6 @@
 {
-  "name": "rice",
-  "description": "rice",
+  "name": "StaryNight",
+  "description": "Stars",
   "version": "1.0",
   "authors": [
     {
@@ -149,8 +149,8 @@
     "CHAT_GREY": "#071423"
   },
   "background": {
-    "blur": 5.0,
-    "url": "https://cdn.discordapp.com/attachments/961011167927615611/981715129127284826/unknown.png",
+    "blur": 0.0,
+    "url": "https://media.discordapp.net/attachments/836793351818706984/981709730147885126/Image_3.png",
     "alpha": 1.0
   }
 }
